@@ -1,6 +1,6 @@
-# Tutorial Convert and Downloading RAW file from Himawari 8/9 into NC files
+# Tutorial Converting and Downloading RAW file from Himawari 8/9 into NC files
 ## Overview
-These scripts are originally created by Xin Zhang for downloading gridded-processed data of Himawari-8 Satellite. However, it has been years ago, and there are some changes, especially for the sample programs's version. So, I actually just give an update for the sample programs. This scripts can be run using any codes editor, but this time I used [Google Colaboratory](https://colab.research.google.com/).
+These scripts are originally created by Xin Zhang for downloading gridded-processed data of Himawari-8 Satellite. However, it has been years ago, and there are some changes, especially for the sample programs's version. So, I actually just give an update for the sample programs. This scripts can be run using any codes editor, but this time I will use [Google Colaboratory](https://colab.research.google.com/) as my script editor.
 
 ## Requirements
 - [NetCDF Operators (NCO)](http://nco.sourceforge.net/)
