@@ -59,6 +59,13 @@ Options:
   -d, --debug INTEGER   Debug level  [default: 0]
   --help                Show this message and exit.
 ```
+## Google Colaboratory's Version
+
+```
+!pip install -q condacolab
+import condacolab
+condacolab.install()
+```
 
 ## Reference
 Click this [link](https://github.com/zxdawn/Himawari-8-gridded/tree/master) to see the original scripts. Big thanks for you!
